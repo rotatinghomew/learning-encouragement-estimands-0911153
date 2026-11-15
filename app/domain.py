@@ -1,5 +1,5 @@
 from app.design import design_profile
-from collections import Counter
+from app.estimands import analyse as participation_analysis
 from app.protocol import finite, table_mean, unique
 
 
@@ -32,4 +32,9 @@ def invitation_balance(packet, options):
     return {"source_profile": design_profile(packet), "groups": groups, "interpretation": "Invitation balance and observed outcomes only; not a participation effect."}
 
 
-ANALYSES = {"invitation_balance": invitation_balance}
+def participation_effect(packet, options):
+    return participation_analysis(packet, options)
+
+
+ANALYSES = {"invitation_balance": invitation_balance,
+            "participation_effect": participation_effect}

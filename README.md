@@ -25,4 +25,10 @@ docker run --rm --network none encouragement-estimands:initial python -m app.dem
 
 现有业务视图：`app/design.py`，当前结果在 `source_profile` 中公开。
 
+`participation_effect` 与现有核对分析并存，家庭是抽样与重抽样单位，居民是估计单位。它把邀请效应与实际参与效应分开报告：邀请效应用家庭随机化识别；参与效应给识别界与声明情景表，弱推动或缺回访时不给精确比值。假设字段、默认值和结果结构见 `docs/data-contract.md`。正式展示：
+
+```sh
+python -m app.demo --analysis participation_effect
+```
+
 容器默认入口为真实 HTTP 分析服务（8322 端口），同时启动仅回环可见的资料目录；`GET /health` 可检查就绪。离线限时演示显式运行 `python -m app.demo`，不是让常驻服务自行退出。
