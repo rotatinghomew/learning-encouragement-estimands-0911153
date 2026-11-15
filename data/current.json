@@ -1,0 +1,1428 @@
+{
+  "revision": "2026q4-v1",
+  "synthetic": true,
+  "randomization": {
+    "unit": "household",
+    "mechanism": "independent_bernoulli_within_stratum"
+  },
+  "households": [
+    {
+      "household": "h0",
+      "invited": 0,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h1",
+      "invited": 0,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h2",
+      "invited": 1,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h3",
+      "invited": 0,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h4",
+      "invited": 0,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h5",
+      "invited": 0,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h6",
+      "invited": 1,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h7",
+      "invited": 0,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h8",
+      "invited": 0,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h9",
+      "invited": 0,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h10",
+      "invited": 1,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h11",
+      "invited": 1,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h12",
+      "invited": 0,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h13",
+      "invited": 0,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h14",
+      "invited": 1,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h15",
+      "invited": 1,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h16",
+      "invited": 0,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h17",
+      "invited": 1,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h18",
+      "invited": 0,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h19",
+      "invited": 0,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h20",
+      "invited": 0,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h21",
+      "invited": 1,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h22",
+      "invited": 1,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h23",
+      "invited": 1,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h24",
+      "invited": 1,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h25",
+      "invited": 1,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h26",
+      "invited": 1,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h27",
+      "invited": 0,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h28",
+      "invited": 1,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h29",
+      "invited": 0,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h30",
+      "invited": 1,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h31",
+      "invited": 1,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h32",
+      "invited": 0,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h33",
+      "invited": 1,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h34",
+      "invited": 0,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h35",
+      "invited": 0,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h36",
+      "invited": 1,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h37",
+      "invited": 0,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h38",
+      "invited": 1,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h39",
+      "invited": 1,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h40",
+      "invited": 0,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h41",
+      "invited": 0,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h42",
+      "invited": 1,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h43",
+      "invited": 0,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h44",
+      "invited": 1,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h45",
+      "invited": 1,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h46",
+      "invited": 0,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h47",
+      "invited": 1,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h48",
+      "invited": 1,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h49",
+      "invited": 1,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h50",
+      "invited": 0,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h51",
+      "invited": 0,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h52",
+      "invited": 1,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h53",
+      "invited": 0,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h54",
+      "invited": 1,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h55",
+      "invited": 1,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h56",
+      "invited": 1,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h57",
+      "invited": 1,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h58",
+      "invited": 1,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h59",
+      "invited": 1,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h60",
+      "invited": 1,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h61",
+      "invited": 1,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h62",
+      "invited": 1,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h63",
+      "invited": 0,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h64",
+      "invited": 1,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h65",
+      "invited": 1,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h66",
+      "invited": 1,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h67",
+      "invited": 1,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h68",
+      "invited": 1,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h69",
+      "invited": 0,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h70",
+      "invited": 0,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h71",
+      "invited": 0,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h72",
+      "invited": 0,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h73",
+      "invited": 0,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h74",
+      "invited": 0,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h75",
+      "invited": 0,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h76",
+      "invited": 1,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h77",
+      "invited": 0,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h78",
+      "invited": 0,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h79",
+      "invited": 1,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h80",
+      "invited": 0,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h81",
+      "invited": 1,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h82",
+      "invited": 0,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h83",
+      "invited": 1,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h84",
+      "invited": 0,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h85",
+      "invited": 0,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h86",
+      "invited": 0,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h87",
+      "invited": 0,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h88",
+      "invited": 0,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h89",
+      "invited": 0,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h90",
+      "invited": 1,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h91",
+      "invited": 1,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h92",
+      "invited": 0,
+      "stratum": 2,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h93",
+      "invited": 1,
+      "stratum": 0,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h94",
+      "invited": 0,
+      "stratum": 1,
+      "invite_probability": 0.5
+    },
+    {
+      "household": "h95",
+      "invited": 1,
+      "stratum": 2,
+      "invite_probability": 0.5
+    }
+  ],
+  "people": [
+    {
+      "person": "p0-0",
+      "household": "h0",
+      "attended": 1,
+      "outcome": null,
+      "baseline": 57.05
+    },
+    {
+      "person": "p0-1",
+      "household": "h0",
+      "attended": 1,
+      "outcome": null,
+      "baseline": 31.58
+    },
+    {
+      "person": "p1-0",
+      "household": "h1",
+      "attended": 0,
+      "outcome": 33.255,
+      "baseline": 32.29
+    },
+    {
+      "person": "p2-0",
+      "household": "h2",
+      "attended": 1,
+      "outcome": 46.171,
+      "baseline": 69.89
+    },
+    {
+      "person": "p3-0",
+      "household": "h3",
+      "attended": 1,
+      "outcome": 50.313,
+      "baseline": 56.61
+    },
+    {
+      "person": "p4-0",
+      "household": "h4",
+      "attended": 1,
+      "outcome": 35.248,
+      "baseline": 60.89
+    },
+    {
+      "person": "p4-1",
+      "household": "h4",
+      "attended": 0,
+      "outcome": 47.717,
+      "baseline": 69.73
+    },
+    {
+      "person": "p5-0",
+      "household": "h5",
+      "attended": 0,
+      "outcome": 35.309,
+      "baseline": 52.55
+    },
+    {
+      "person": "p6-0",
+      "household": "h6",
+      "attended": 1,
+      "outcome": 55.429,
+      "baseline": 31.48
+    },
+    {
+      "person": "p7-0",
+      "household": "h7",
+      "attended": 0,
+      "outcome": 40.514,
+      "baseline": 67.44
+    },
+    {
+      "person": "p8-0",
+      "household": "h8",
+      "attended": 0,
+      "outcome": 32.911,
+      "baseline": 41.63
+    },
+    {
+      "person": "p8-1",
+      "household": "h8",
+      "attended": 0,
+      "outcome": 36.525,
+      "baseline": 61.43
+    },
+    {
+      "person": "p9-0",
+      "household": "h9",
+      "attended": 0,
+      "outcome": 45.916,
+      "baseline": 35.78
+    },
+    {
+      "person": "p10-0",
+      "household": "h10",
+      "attended": 1,
+      "outcome": 49.869,
+      "baseline": 41.36
+    },
+    {
+      "person": "p11-0",
+      "household": "h11",
+      "attended": 1,
+      "outcome": 45.462,
+      "baseline": 47.22
+    },
+    {
+      "person": "p12-0",
+      "household": "h12",
+      "attended": 0,
+      "outcome": 49.063,
+      "baseline": 35.49
+    },
+    {
+      "person": "p12-1",
+      "household": "h12",
+      "attended": 0,
+      "outcome": 41.036,
+      "baseline": 44.06
+    },
+    {
+      "person": "p13-0",
+      "household": "h13",
+      "attended": 0,
+      "outcome": null,
+      "baseline": 51.39
+    },
+    {
+      "person": "p14-0",
+      "household": "h14",
+      "attended": 0,
+      "outcome": 25.867,
+      "baseline": 58.19
+    },
+    {
+      "person": "p15-0",
+      "household": "h15",
+      "attended": 0,
+      "outcome": 37.624,
+      "baseline": 23.38
+    },
+    {
+      "person": "p16-0",
+      "household": "h16",
+      "attended": 0,
+      "outcome": 38.876,
+      "baseline": 23.49
+    },
+    {
+      "person": "p16-1",
+      "household": "h16",
+      "attended": 0,
+      "outcome": 54.09,
+      "baseline": 55.06
+    },
+    {
+      "person": "p17-0",
+      "household": "h17",
+      "attended": 1,
+      "outcome": 52.917,
+      "baseline": 45.03
+    },
+    {
+      "person": "p18-0",
+      "household": "h18",
+      "attended": 0,
+      "outcome": 44.172,
+      "baseline": 65.73
+    },
+    {
+      "person": "p19-0",
+      "household": "h19",
+      "attended": 0,
+      "outcome": 39.635,
+      "baseline": 28.62
+    },
+    {
+      "person": "p20-0",
+      "household": "h20",
+      "attended": 0,
+      "outcome": 42.007,
+      "baseline": 69.32
+    },
+    {
+      "person": "p20-1",
+      "household": "h20",
+      "attended": 0,
+      "outcome": 46.29,
+      "baseline": 31.8
+    },
+    {
+      "person": "p21-0",
+      "household": "h21",
+      "attended": 0,
+      "outcome": 26.357,
+      "baseline": 44.56
+    },
+    {
+      "person": "p22-0",
+      "household": "h22",
+      "attended": 0,
+      "outcome": 32.519,
+      "baseline": 22.75
+    },
+    {
+      "person": "p23-0",
+      "household": "h23",
+      "attended": 0,
+      "outcome": 41.8,
+      "baseline": 49.51
+    },
+    {
+      "person": "p24-0",
+      "household": "h24",
+      "attended": 1,
+      "outcome": 51.97,
+      "baseline": 22.68
+    },
+    {
+      "person": "p24-1",
+      "household": "h24",
+      "attended": 0,
+      "outcome": 27.02,
+      "baseline": 57.26
+    },
+    {
+      "person": "p25-0",
+      "household": "h25",
+      "attended": 1,
+      "outcome": 54.622,
+      "baseline": 58.06
+    },
+    {
+      "person": "p26-0",
+      "household": "h26",
+      "attended": 1,
+      "outcome": null,
+      "baseline": 40.77
+    },
+    {
+      "person": "p27-0",
+      "household": "h27",
+      "attended": 0,
+      "outcome": 16.311,
+      "baseline": 35.68
+    },
+    {
+      "person": "p28-0",
+      "household": "h28",
+      "attended": 1,
+      "outcome": 58.382,
+      "baseline": 21.26
+    },
+    {
+      "person": "p28-1",
+      "household": "h28",
+      "attended": 1,
+      "outcome": 41.19,
+      "baseline": 21.19
+    },
+    {
+      "person": "p29-0",
+      "household": "h29",
+      "attended": 0,
+      "outcome": 42.721,
+      "baseline": 38.32
+    },
+    {
+      "person": "p30-0",
+      "household": "h30",
+      "attended": 1,
+      "outcome": 67.943,
+      "baseline": 26.62
+    },
+    {
+      "person": "p31-0",
+      "household": "h31",
+      "attended": 0,
+      "outcome": 48.134,
+      "baseline": 50.98
+    },
+    {
+      "person": "p32-0",
+      "household": "h32",
+      "attended": 0,
+      "outcome": 43.647,
+      "baseline": 58.02
+    },
+    {
+      "person": "p32-1",
+      "household": "h32",
+      "attended": 0,
+      "outcome": 46.046,
+      "baseline": 52.59
+    },
+    {
+      "person": "p33-0",
+      "household": "h33",
+      "attended": 0,
+      "outcome": 39.38,
+      "baseline": 34.54
+    },
+    {
+      "person": "p34-0",
+      "household": "h34",
+      "attended": 0,
+      "outcome": 39.714,
+      "baseline": 39.18
+    },
+    {
+      "person": "p35-0",
+      "household": "h35",
+      "attended": 0,
+      "outcome": 32.648,
+      "baseline": 44.72
+    },
+    {
+      "person": "p36-0",
+      "household": "h36",
+      "attended": 1,
+      "outcome": 41.257,
+      "baseline": 28.0
+    },
+    {
+      "person": "p36-1",
+      "household": "h36",
+      "attended": 1,
+      "outcome": 48.111,
+      "baseline": 20.83
+    },
+    {
+      "person": "p37-0",
+      "household": "h37",
+      "attended": 0,
+      "outcome": 59.559,
+      "baseline": 20.82
+    },
+    {
+      "person": "p38-0",
+      "household": "h38",
+      "attended": 0,
+      "outcome": 41.535,
+      "baseline": 59.35
+    },
+    {
+      "person": "p39-0",
+      "household": "h39",
+      "attended": 1,
+      "outcome": null,
+      "baseline": 33.12
+    },
+    {
+      "person": "p40-0",
+      "household": "h40",
+      "attended": 0,
+      "outcome": 25.706,
+      "baseline": 69.16
+    },
+    {
+      "person": "p40-1",
+      "household": "h40",
+      "attended": 1,
+      "outcome": 47.052,
+      "baseline": 44.93
+    },
+    {
+      "person": "p41-0",
+      "household": "h41",
+      "attended": 0,
+      "outcome": 26.943,
+      "baseline": 60.89
+    },
+    {
+      "person": "p42-0",
+      "household": "h42",
+      "attended": 1,
+      "outcome": 52.419,
+      "baseline": 69.41
+    },
+    {
+      "person": "p43-0",
+      "household": "h43",
+      "attended": 1,
+      "outcome": 43.255,
+      "baseline": 27.17
+    },
+    {
+      "person": "p44-0",
+      "household": "h44",
+      "attended": 1,
+      "outcome": 24.023,
+      "baseline": 64.86
+    },
+    {
+      "person": "p44-1",
+      "household": "h44",
+      "attended": 0,
+      "outcome": 49.619,
+      "baseline": 45.27
+    },
+    {
+      "person": "p45-0",
+      "household": "h45",
+      "attended": 0,
+      "outcome": 39.545,
+      "baseline": 23.05
+    },
+    {
+      "person": "p46-0",
+      "household": "h46",
+      "attended": 0,
+      "outcome": 34.092,
+      "baseline": 40.57
+    },
+    {
+      "person": "p47-0",
+      "household": "h47",
+      "attended": 1,
+      "outcome": 44.497,
+      "baseline": 47.14
+    },
+    {
+      "person": "p48-0",
+      "household": "h48",
+      "attended": 1,
+      "outcome": 59.694,
+      "baseline": 53.45
+    },
+    {
+      "person": "p48-1",
+      "household": "h48",
+      "attended": 0,
+      "outcome": 36.416,
+      "baseline": 64.27
+    },
+    {
+      "person": "p49-0",
+      "household": "h49",
+      "attended": 1,
+      "outcome": 38.128,
+      "baseline": 33.81
+    },
+    {
+      "person": "p50-0",
+      "household": "h50",
+      "attended": 0,
+      "outcome": 45.459,
+      "baseline": 56.92
+    },
+    {
+      "person": "p51-0",
+      "household": "h51",
+      "attended": 0,
+      "outcome": 35.227,
+      "baseline": 38.53
+    },
+    {
+      "person": "p52-0",
+      "household": "h52",
+      "attended": 1,
+      "outcome": null,
+      "baseline": 23.54
+    },
+    {
+      "person": "p52-1",
+      "household": "h52",
+      "attended": 1,
+      "outcome": null,
+      "baseline": 40.39
+    },
+    {
+      "person": "p53-0",
+      "household": "h53",
+      "attended": 0,
+      "outcome": 38.097,
+      "baseline": 25.42
+    },
+    {
+      "person": "p54-0",
+      "household": "h54",
+      "attended": 0,
+      "outcome": 38.72,
+      "baseline": 44.92
+    },
+    {
+      "person": "p55-0",
+      "household": "h55",
+      "attended": 0,
+      "outcome": 48.275,
+      "baseline": 32.04
+    },
+    {
+      "person": "p56-0",
+      "household": "h56",
+      "attended": 0,
+      "outcome": 48.54,
+      "baseline": 60.23
+    },
+    {
+      "person": "p56-1",
+      "household": "h56",
+      "attended": 0,
+      "outcome": 45.824,
+      "baseline": 55.16
+    },
+    {
+      "person": "p57-0",
+      "household": "h57",
+      "attended": 1,
+      "outcome": 56.619,
+      "baseline": 46.24
+    },
+    {
+      "person": "p58-0",
+      "household": "h58",
+      "attended": 0,
+      "outcome": 47.161,
+      "baseline": 33.99
+    },
+    {
+      "person": "p59-0",
+      "household": "h59",
+      "attended": 1,
+      "outcome": 55.531,
+      "baseline": 58.99
+    },
+    {
+      "person": "p60-0",
+      "household": "h60",
+      "attended": 0,
+      "outcome": 24.3,
+      "baseline": 36.75
+    },
+    {
+      "person": "p60-1",
+      "household": "h60",
+      "attended": 1,
+      "outcome": 40.653,
+      "baseline": 20.77
+    },
+    {
+      "person": "p61-0",
+      "household": "h61",
+      "attended": 0,
+      "outcome": 30.752,
+      "baseline": 47.89
+    },
+    {
+      "person": "p62-0",
+      "household": "h62",
+      "attended": 1,
+      "outcome": 49.54,
+      "baseline": 33.03
+    },
+    {
+      "person": "p63-0",
+      "household": "h63",
+      "attended": 0,
+      "outcome": 35.976,
+      "baseline": 24.96
+    },
+    {
+      "person": "p64-0",
+      "household": "h64",
+      "attended": 1,
+      "outcome": 44.273,
+      "baseline": 27.61
+    },
+    {
+      "person": "p64-1",
+      "household": "h64",
+      "attended": 1,
+      "outcome": 50.328,
+      "baseline": 34.5
+    },
+    {
+      "person": "p65-0",
+      "household": "h65",
+      "attended": 1,
+      "outcome": null,
+      "baseline": 24.42
+    },
+    {
+      "person": "p66-0",
+      "household": "h66",
+      "attended": 0,
+      "outcome": 35.114,
+      "baseline": 38.28
+    },
+    {
+      "person": "p67-0",
+      "household": "h67",
+      "attended": 1,
+      "outcome": 52.68,
+      "baseline": 54.2
+    },
+    {
+      "person": "p68-0",
+      "household": "h68",
+      "attended": 1,
+      "outcome": 38.816,
+      "baseline": 53.32
+    },
+    {
+      "person": "p68-1",
+      "household": "h68",
+      "attended": 0,
+      "outcome": 35.471,
+      "baseline": 43.83
+    },
+    {
+      "person": "p69-0",
+      "household": "h69",
+      "attended": 0,
+      "outcome": 34.268,
+      "baseline": 37.09
+    },
+    {
+      "person": "p70-0",
+      "household": "h70",
+      "attended": 0,
+      "outcome": 49.437,
+      "baseline": 54.96
+    },
+    {
+      "person": "p71-0",
+      "household": "h71",
+      "attended": 1,
+      "outcome": 47.796,
+      "baseline": 59.0
+    },
+    {
+      "person": "p72-0",
+      "household": "h72",
+      "attended": 0,
+      "outcome": 28.944,
+      "baseline": 61.01
+    },
+    {
+      "person": "p72-1",
+      "household": "h72",
+      "attended": 0,
+      "outcome": 43.271,
+      "baseline": 28.26
+    },
+    {
+      "person": "p73-0",
+      "household": "h73",
+      "attended": 0,
+      "outcome": 43.393,
+      "baseline": 56.42
+    },
+    {
+      "person": "p74-0",
+      "household": "h74",
+      "attended": 0,
+      "outcome": 36.823,
+      "baseline": 33.28
+    },
+    {
+      "person": "p75-0",
+      "household": "h75",
+      "attended": 0,
+      "outcome": 27.144,
+      "baseline": 42.51
+    },
+    {
+      "person": "p76-0",
+      "household": "h76",
+      "attended": 0,
+      "outcome": 29.08,
+      "baseline": 40.49
+    },
+    {
+      "person": "p76-1",
+      "household": "h76",
+      "attended": 1,
+      "outcome": 51.235,
+      "baseline": 59.09
+    },
+    {
+      "person": "p77-0",
+      "household": "h77",
+      "attended": 1,
+      "outcome": 55.622,
+      "baseline": 54.65
+    },
+    {
+      "person": "p78-0",
+      "household": "h78",
+      "attended": 1,
+      "outcome": null,
+      "baseline": 46.12
+    },
+    {
+      "person": "p79-0",
+      "household": "h79",
+      "attended": 1,
+      "outcome": 59.326,
+      "baseline": 58.85
+    },
+    {
+      "person": "p80-0",
+      "household": "h80",
+      "attended": 0,
+      "outcome": 43.955,
+      "baseline": 24.92
+    },
+    {
+      "person": "p80-1",
+      "household": "h80",
+      "attended": 0,
+      "outcome": 43.187,
+      "baseline": 38.77
+    },
+    {
+      "person": "p81-0",
+      "household": "h81",
+      "attended": 1,
+      "outcome": 46.123,
+      "baseline": 50.89
+    },
+    {
+      "person": "p82-0",
+      "household": "h82",
+      "attended": 0,
+      "outcome": 46.691,
+      "baseline": 33.26
+    },
+    {
+      "person": "p83-0",
+      "household": "h83",
+      "attended": 1,
+      "outcome": 51.182,
+      "baseline": 29.21
+    },
+    {
+      "person": "p84-0",
+      "household": "h84",
+      "attended": 0,
+      "outcome": 41.602,
+      "baseline": 59.61
+    },
+    {
+      "person": "p84-1",
+      "household": "h84",
+      "attended": 1,
+      "outcome": 51.186,
+      "baseline": 44.79
+    },
+    {
+      "person": "p85-0",
+      "household": "h85",
+      "attended": 0,
+      "outcome": 37.452,
+      "baseline": 32.23
+    },
+    {
+      "person": "p86-0",
+      "household": "h86",
+      "attended": 1,
+      "outcome": 48.807,
+      "baseline": 41.1
+    },
+    {
+      "person": "p87-0",
+      "household": "h87",
+      "attended": 0,
+      "outcome": 32.571,
+      "baseline": 65.65
+    },
+    {
+      "person": "p88-0",
+      "household": "h88",
+      "attended": 0,
+      "outcome": 39.936,
+      "baseline": 54.83
+    },
+    {
+      "person": "p88-1",
+      "household": "h88",
+      "attended": 0,
+      "outcome": 33.546,
+      "baseline": 44.79
+    },
+    {
+      "person": "p89-0",
+      "household": "h89",
+      "attended": 0,
+      "outcome": 31.963,
+      "baseline": 61.15
+    },
+    {
+      "person": "p90-0",
+      "household": "h90",
+      "attended": 0,
+      "outcome": 33.364,
+      "baseline": 67.54
+    },
+    {
+      "person": "p91-0",
+      "household": "h91",
+      "attended": 0,
+      "outcome": null,
+      "baseline": 25.54
+    },
+    {
+      "person": "p92-0",
+      "household": "h92",
+      "attended": 0,
+      "outcome": 44.015,
+      "baseline": 65.39
+    },
+    {
+      "person": "p92-1",
+      "household": "h92",
+      "attended": 0,
+      "outcome": 43.918,
+      "baseline": 27.52
+    },
+    {
+      "person": "p93-0",
+      "household": "h93",
+      "attended": 0,
+      "outcome": 28.524,
+      "baseline": 65.03
+    },
+    {
+      "person": "p94-0",
+      "household": "h94",
+      "attended": 0,
+      "outcome": 39.502,
+      "baseline": 64.9
+    },
+    {
+      "person": "p95-0",
+      "household": "h95",
+      "attended": 1,
+      "outcome": 45.3,
+      "baseline": 42.57
+    }
+  ]
+}

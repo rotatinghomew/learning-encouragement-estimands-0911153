@@ -1,0 +1,14 @@
+[
+  {
+    "path": "data/cases/boundary-1.json",
+    "meaning": "完全依从且完整回访，邀请与参与一致，结局由参与决定；可人工核对分析对象。"
+  },
+  {
+    "path": "data/cases/boundary-2.json",
+    "meaning": "两组都无人参与，邀请对参与没有推动；不能用有限精确比值声称参与收益。"
+  },
+  {
+    "path": "data/cases/boundary-3.json",
+    "meaning": "所有结局未回访，邀请与参加记录仍保留；缺失不能变成零分。"
+  }
+]
